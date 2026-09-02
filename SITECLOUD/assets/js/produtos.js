@@ -55,7 +55,7 @@ window.PRODUTOS = [
     "id": "elfbar-king-40k",
     "nome": "Elfbar TE — 30.000 Puffs",
     "descricao": "O queridinho da marca, modelo fora de série, marcando época. Qualidade ELFBAR.",
-    "imagem": "assets\\img\\elfte-30k.png",
+    "imagem": "assets\\img\\elfbar-te-30k.png",
     "precoDe": 109.99,
     "preco": 99.99,
     "badge": "+ PUFFS",
