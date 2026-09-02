@@ -26,7 +26,7 @@ window.PRODUTOS = [
     "precoDe": 119.99,
     "preco": 99.99,
     "badge": "TOP 1",
-    "destaque": true,
+    "destaque": false,
     "sabores": [
       "Grape Ice",
       "Pineapple Ice",
@@ -34,7 +34,7 @@ window.PRODUTOS = [
       "Watermelon Ice",
       "Strawberry Kiwi"
     ],
-    "ativo": true
+    "ativo": false
   },
   {
     "id": "produto-5",
@@ -61,11 +61,11 @@ window.PRODUTOS = [
     "badge": "+ PUFFS",
     "destaque": true,
     "sabores": [
+      "Cherry Strazz",
       "Watermelon Ice",
       "Bubbaloo Grape",
-      "Bubbaloo Tutti-Fruti",
-      "Dragon Strawnana",
-      "Strawberry Watermelon Ice"
+      "Pineapple Mango",
+      "Dragon Strawnana"
     ],
     "ativo": true
   },
@@ -98,20 +98,21 @@ window.PRODUTOS = [
     ],
     "ativo": true,
     "badge": "NEW",
-    "destaque": true
+    "destaque": true,
+    "precoDe": 134.99
   },
   {
     "id": "produto-7",
     "nome": "Dinner Lady — 50.000 Puffs",
     "descricao": "Dual-Flavor. O pod mais vendido no Reino Unido, sendo um dos queridinhos na europa, mais uma novidade padrão CloudPods.",
     "imagem": "assets\\img\\dinner-50k.png",
-    "preco": 124.99,
+    "preco": 129.99,
     "sabores": [
       "Grape Ice + México Mango",
       "Straw Kiwi + Cherry Ice"
     ],
     "ativo": true,
-    "precoDe": 0,
+    "precoDe": 149.99,
     "badge": "NEW",
     "destaque": true
   }
