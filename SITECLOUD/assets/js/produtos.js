@@ -8,7 +8,7 @@ window.PRODUTOS = [
     "precoDe": 89.99,
     "preco": 69.99,
     "badge": "+ VENDIDO",
-    "destaque": true,
+    "destaque": false,
     "sabores": [
       "Sakura Grape",
       "Strawberry Kiwi",
@@ -16,7 +16,7 @@ window.PRODUTOS = [
       "Watermelon Ice",
       "Mango Magic"
     ],
-    "ativo": true
+    "ativo": false
   },
   {
     "id": "ignite-v250",
