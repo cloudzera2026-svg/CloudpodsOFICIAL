@@ -67,7 +67,7 @@ window.PRODUTOS = [
       "Pineapple Mango",
       "Dragon Strawnana"
     ],
-    "ativo": true
+    "ativo": false
   },
   {
     "id": "ignite-v400",
@@ -96,7 +96,7 @@ window.PRODUTOS = [
       "Strawberry Colada",
       "Banana Taffy Freeze"
     ],
-    "ativo": true,
+    "ativo": false,
     "badge": "NEW",
     "destaque": true,
     "precoDe": 134.99
@@ -111,7 +111,7 @@ window.PRODUTOS = [
       "Grape Ice + México Mango",
       "Straw Kiwi + Cherry Ice"
     ],
-    "ativo": true,
+    "ativo": false,
     "precoDe": 149.99,
     "badge": "NEW",
     "destaque": true
