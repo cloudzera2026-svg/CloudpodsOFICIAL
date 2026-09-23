@@ -5,18 +5,15 @@ window.PRODUTOS = [
     "nome": "Elfbar BC — 15.000 Puffs",
     "descricao": "A linha custo beneficio da marca, para você que procura a melhor opção e preço baixo. Qualidade ELFBAR.",
     "imagem": "assets\\img\\elfbar-bc15k.png",
-    "precoDe": 89.99,
-    "preco": 69.99,
+    "precoDe": 94.99,
+    "preco": 74.99,
     "badge": "+ VENDIDO",
-    "destaque": false,
+    "destaque": true,
     "sabores": [
-      "Sakura Grape",
-      "Strawberry Kiwi",
-      "Pineapple Ice",
-      "Watermelon Ice",
-      "Mango Magic"
+      "Green Apple",
+      "Kiwi Passionfruit Guava"
     ],
-    "ativo": false
+    "ativo": true
   },
   {
     "id": "ignite-v250",
@@ -26,15 +23,16 @@ window.PRODUTOS = [
     "precoDe": 119.99,
     "preco": 99.99,
     "badge": "TOP 1",
-    "destaque": false,
+    "destaque": true,
     "sabores": [
+      "Icy Mint",
+      "Menthol",
       "Grape Ice",
-      "Pineapple Ice",
       "Strawberry Ice",
       "Watermelon Ice",
       "Strawberry Kiwi"
     ],
-    "ativo": false
+    "ativo": true
   },
   {
     "id": "produto-5",
@@ -61,13 +59,13 @@ window.PRODUTOS = [
     "badge": "+ PUFFS",
     "destaque": true,
     "sabores": [
-      "Cherry Strazz",
-      "Watermelon Ice",
-      "Bubbaloo Grape",
-      "Pineapple Mango",
-      "Dragon Strawnana"
+      "Menthol",
+      "Strawberry Ice",
+      "Pineapple Ice",
+      "Bubballo Grape",
+      "Watermelon Ice"
     ],
-    "ativo": false
+    "ativo": true
   },
   {
     "id": "ignite-v400",
@@ -108,8 +106,8 @@ window.PRODUTOS = [
     "imagem": "assets\\img\\dinner-50k.png",
     "preco": 129.99,
     "sabores": [
-      "Grape Ice + México Mango",
-      "Straw Kiwi + Cherry Ice"
+      "Straw Kiwi + Cherry Ice",
+      "Watermelon Ice + Blue Mint"
     ],
     "ativo": false,
     "precoDe": 149.99,
