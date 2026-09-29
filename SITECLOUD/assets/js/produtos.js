@@ -109,7 +109,7 @@ window.PRODUTOS = [
       "Straw Kiwi + Cherry Ice",
       "Watermelon Ice + Blue Mint"
     ],
-    "ativo": false,
+    "ativo": true,
     "precoDe": 149.99,
     "badge": "NEW",
     "destaque": true
