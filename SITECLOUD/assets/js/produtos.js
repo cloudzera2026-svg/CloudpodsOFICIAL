@@ -88,18 +88,16 @@ window.PRODUTOS = [
   },
   {
     "id": "produto-6",
-    "nome": "Nevux Pulse — 40.000 Puffs",
-    "descricao": "Novidade que está sendo sensação nos EUA, diretamente para vocês, padrão CloudPods de sempre.",
-    "imagem": "assets\\img\\nevux-40k.png",
-    "preco": 114.99,
+    "nome": "Elfbar King — 40.000 Puffs",
+    "descricao": "Um dos queridinhos do mercado, 40 mil puffs com seleção de potência - Turbo I, II e III. Padrão CloudPods de sempre.",
+    "imagem": "assets\\img\\elfbar-king-40k.png",
+    "preco": 119.99,
     "sabores": [
-      "Pink Blue",
-      "Sour Straw",
-      "Strawberry Colada",
-      "Banana Taffy Freeze"
+      "Grape Ice",
+      "Watermelon Ice"
     ],
-    "ativo": false,
-    "badge": "NEW",
+    "ativo": true,
+    "badge": "+ PUFFS",
     "destaque": true,
     "precoDe": 134.99
   },
