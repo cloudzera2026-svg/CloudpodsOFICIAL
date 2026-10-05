@@ -10,8 +10,11 @@ window.PRODUTOS = [
     "badge": "+ VENDIDO",
     "destaque": true,
     "sabores": [
-      "Green Apple",
-      "Kiwi Passionfruit Guava"
+      "Miami Mint",
+      "Sakura Grape",
+      "Strawberry Ice",
+      "Strawberry Kiwi",
+      "Watermelon Ice"
     ],
     "ativo": true
   },
@@ -32,7 +35,7 @@ window.PRODUTOS = [
       "Watermelon Ice",
       "Strawberry Kiwi"
     ],
-    "ativo": true
+    "ativo": false
   },
   {
     "id": "produto-5",
@@ -60,6 +63,7 @@ window.PRODUTOS = [
     "destaque": true,
     "sabores": [
       "Menthol",
+      "Cherry Strazz",
       "Strawberry Ice",
       "Pineapple Ice",
       "Bubballo Grape",
