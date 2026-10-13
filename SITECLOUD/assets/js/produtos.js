@@ -87,6 +87,22 @@ window.PRODUTOS = [
     "ativo": false
   },
   {
+    "id": "produto-8",
+    "nome": "Lost Mary — 35.000 Puffs",
+    "descricao": "Uma novidade da marca que sempre foi sensação no mercado mundial. Lost Mary, a novidade custo benefício que todos pediram. Padrão CloudPods.",
+    "imagem": "assets\\img\\lost-35k.png",
+    "preco": 109.99,
+    "sabores": [
+      "Menthol",
+      "Grape Ice",
+      "Strawberry Watermelon"
+    ],
+    "ativo": true,
+    "precoDe": 129.99,
+    "badge": "NEW",
+    "destaque": true
+  },
+  {
     "id": "produto-6",
     "nome": "Elfbar King — 40.000 Puffs",
     "descricao": "Um dos queridinhos do mercado, 40 mil puffs com seleção de potência - Turbo I, II e III. Padrão CloudPods de sempre.",
