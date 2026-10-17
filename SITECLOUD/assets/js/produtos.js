@@ -16,7 +16,7 @@ window.PRODUTOS = [
       "Strawberry Kiwi",
       "Watermelon Ice"
     ],
-    "ativo": true
+    "ativo": false
   },
   {
     "id": "ignite-v250",
@@ -127,7 +127,7 @@ window.PRODUTOS = [
       "Straw Kiwi + Cherry Ice",
       "Watermelon Ice + Blue Mint"
     ],
-    "ativo": true,
+    "ativo": false,
     "precoDe": 149.99,
     "badge": "NEW",
     "destaque": true
