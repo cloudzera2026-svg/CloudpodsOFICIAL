@@ -70,7 +70,7 @@ window.PRODUTOS = [
     ],
     "ativo": true,
     "precoDe": 109.99,
-    "badge": "NOVO",
+    "badge": "NEW",
     "destaque": true
   },
   {
@@ -147,7 +147,7 @@ window.PRODUTOS = [
     ],
     "ativo": true,
     "precoDe": 149.99,
-    "badge": "NEW",
+    "badge": "+ PUFFS",
     "destaque": true
   }
 ];
