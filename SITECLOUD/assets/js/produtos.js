@@ -38,21 +38,6 @@ window.PRODUTOS = [
     "ativo": false
   },
   {
-    "id": "produto-5",
-    "nome": "Elfbar Duke — 35.000 Puffs",
-    "descricao": "A novidade do momento, modelo sofisticado e atualizado. Qualidade ELFBAR.",
-    "imagem": "assets\\img\\elfduke-35k.png",
-    "preco": 124.99,
-    "sabores": [
-      "Grape Ice",
-      "Watermelon Ice",
-      "Coconut Strawberry Ice"
-    ],
-    "ativo": false,
-    "precoDe": 139.99,
-    "badge": "NOVO"
-  },
-  {
     "id": "elfbar-king-40k",
     "nome": "Elfbar TE — 30.000 Puffs",
     "descricao": "O queridinho da marca, modelo fora de série, marcando época. Qualidade ELFBAR.",
@@ -69,7 +54,24 @@ window.PRODUTOS = [
       "Bubballo Grape",
       "Watermelon Ice"
     ],
-    "ativo": true
+    "ativo": false
+  },
+  {
+    "id": "produto-9",
+    "nome": "Ignite Frozen — 20.000 Puffs",
+    "descricao": "A marca sensação mundial acaba de lançar mais uma novidade, e como sempre a CloudPods, sendo a primeira a trazer para você! Qualidade IGNITE.",
+    "imagem": "assets\\img\\ignite-20k.png",
+    "preco": 99.99,
+    "sabores": [
+      "Icy Mint",
+      "Grape Ice",
+      "Watermelon Ice",
+      "Strawberry Kiwi"
+    ],
+    "ativo": true,
+    "precoDe": 109.99,
+    "badge": "NOVO",
+    "destaque": true
   },
   {
     "id": "ignite-v400",
@@ -112,10 +114,25 @@ window.PRODUTOS = [
       "Grape Ice",
       "Watermelon Ice"
     ],
-    "ativo": true,
+    "ativo": false,
     "badge": "+ PUFFS",
     "destaque": true,
     "precoDe": 134.99
+  },
+  {
+    "id": "produto-5",
+    "nome": "Elfbar Duke — 35.000 Puffs",
+    "descricao": "A novidade do momento, modelo sofisticado e atualizado. Qualidade ELFBAR.",
+    "imagem": "assets\\img\\elfduke-35k.png",
+    "preco": 124.99,
+    "sabores": [
+      "Grape Ice",
+      "Watermelon Ice",
+      "Coconut Strawberry Ice"
+    ],
+    "ativo": false,
+    "precoDe": 139.99,
+    "badge": "NOVO"
   },
   {
     "id": "produto-7",
@@ -124,10 +141,11 @@ window.PRODUTOS = [
     "imagem": "assets\\img\\dinner-50k.png",
     "preco": 129.99,
     "sabores": [
+      "Grape Ice + Mint Ice",
       "Straw Kiwi + Cherry Ice",
       "Watermelon Ice + Blue Mint"
     ],
-    "ativo": false,
+    "ativo": true,
     "precoDe": 149.99,
     "badge": "NEW",
     "destaque": true
