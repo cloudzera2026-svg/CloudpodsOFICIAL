@@ -10,13 +10,15 @@ window.PRODUTOS = [
     "badge": "+ VENDIDO",
     "destaque": true,
     "sabores": [
-      "Miami Mint",
+      "Icy Mint",
       "Sakura Grape",
+      "Green Apple",
       "Strawberry Ice",
       "Strawberry Kiwi",
-      "Watermelon Ice"
+      "Watermelon Ice",
+      "Peach Mango Watermelon"
     ],
-    "ativo": false
+    "ativo": true
   },
   {
     "id": "ignite-v250",
@@ -48,13 +50,11 @@ window.PRODUTOS = [
     "destaque": true,
     "sabores": [
       "Menthol",
-      "Cherry Strazz",
       "Strawberry Ice",
-      "Pineapple Ice",
       "Bubballo Grape",
       "Watermelon Ice"
     ],
-    "ativo": false
+    "ativo": true
   },
   {
     "id": "produto-9",
@@ -99,7 +99,7 @@ window.PRODUTOS = [
       "Grape Ice",
       "Strawberry Watermelon"
     ],
-    "ativo": true,
+    "ativo": false,
     "precoDe": 129.99,
     "badge": "NEW",
     "destaque": true
