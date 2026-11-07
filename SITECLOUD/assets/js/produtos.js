@@ -68,7 +68,7 @@ window.PRODUTOS = [
       "Watermelon Ice",
       "Strawberry Kiwi"
     ],
-    "ativo": true,
+    "ativo": false,
     "precoDe": 109.99,
     "badge": "NEW",
     "destaque": true
