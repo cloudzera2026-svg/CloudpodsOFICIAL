@@ -54,7 +54,7 @@ window.PRODUTOS = [
       "Bubballo Grape",
       "Watermelon Ice"
     ],
-    "ativo": true
+    "ativo": false
   },
   {
     "id": "produto-9",
@@ -96,10 +96,12 @@ window.PRODUTOS = [
     "preco": 109.99,
     "sabores": [
       "Menthol",
-      "Grape Ice",
-      "Strawberry Watermelon"
+      "Grapefruit Passion Guava",
+      "Green Apple",
+      "Pomegranate Cherry Pineapple",
+      "Summer Oranger"
     ],
-    "ativo": false,
+    "ativo": true,
     "precoDe": 129.99,
     "badge": "NEW",
     "destaque": true
@@ -132,7 +134,7 @@ window.PRODUTOS = [
     ],
     "ativo": false,
     "precoDe": 139.99,
-    "badge": "NOVO"
+    "badge": "NEW"
   },
   {
     "id": "produto-7",
@@ -148,6 +150,21 @@ window.PRODUTOS = [
     "ativo": true,
     "precoDe": 149.99,
     "badge": "+ PUFFS",
+    "destaque": true
+  },
+  {
+    "id": "produto-10",
+    "nome": "Ignite V500 — 50.000 Puffs",
+    "descricao": "O modelo mais cobiçado do momento, sendo o pod recém desenvolvido da marca. Qualidade IGNITE.",
+    "imagem": "assets\\img\\ignite-v500.png",
+    "preco": 139.99,
+    "sabores": [
+      "Grape Ice",
+      "Strawberry ice"
+    ],
+    "ativo": true,
+    "precoDe": 149.99,
+    "badge": "NEW",
     "destaque": true
   }
 ];
