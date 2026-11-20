@@ -47,9 +47,10 @@ window.PRODUTOS = [
     "destaque": true,
     "sabores": [
       "Menthol",
-      "Strawberry Ice",
-      "Bubballo Grape",
-      "Watermelon Ice"
+      "Cherry Strazz",
+      "Pineapple Ice",
+      "Bubballo Tutti-Frutti",
+      "Strawberry Watermelon"
     ],
     "ativo": true
   },
@@ -92,9 +93,11 @@ window.PRODUTOS = [
     "imagem": "assets\\img\\lost-35k.png",
     "preco": 109.99,
     "sabores": [
+      "Orange",
       "Menthol",
-      "Grape Ice",
-      "Strawberry Watermelon"
+      "Green Apple",
+      "Cherry Pineapple",
+      "Grapefruit Passion Guava"
     ],
     "ativo": true,
     "precoDe": 129.99,
