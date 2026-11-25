@@ -92,8 +92,8 @@ window.PRODUTOS = [
   {
     "id": "ignite-v400",
     "nome": "Ignite V400 Ice — 40.000 Puffs",
-    "descricao": "Dual-Flavor: Dois sabores em um só dispositivo. Qualidade IGNITE.",
-    "imagem": "assets\\img\\ignite-v400.png",
+    "descricao": "Modelo possui um novo sistema de Dual Mesh Coil, com mais ICE. Qualidade IGNITE.",
+    "imagem": "assets\\img\\ignite-400.png",
     "precoDe": 129.99,
     "preco": 119.99,
     "badge": "",
