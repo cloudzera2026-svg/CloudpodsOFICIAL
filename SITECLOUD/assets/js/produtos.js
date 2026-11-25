@@ -49,7 +49,7 @@ window.PRODUTOS = [
       "Menthol",
       "Cherry Strazz",
       "Pineapple Ice",
-      "Bubballo Tutti-Frutti",
+      "Bubballo Grape",
       "Strawberry Watermelon"
     ],
     "ativo": true
@@ -72,21 +72,6 @@ window.PRODUTOS = [
     "destaque": true
   },
   {
-    "id": "ignite-v400",
-    "nome": "Ignite V400 Mix — 40.000 Puffs",
-    "descricao": "Dual-Flavor: Dois sabores em um só dispositivo. Qualidade IGNITE.",
-    "imagem": "assets\\img\\ignite-v400.png",
-    "precoDe": 124.99,
-    "preco": 114.99,
-    "badge": "",
-    "destaque": false,
-    "sabores": [
-      "Grape Ice + Watermelon Ice",
-      "Cherry Ice + Watermelon Ice"
-    ],
-    "ativo": false
-  },
-  {
     "id": "produto-8",
     "nome": "Lost Mary — 35.000 Puffs",
     "descricao": "Uma novidade da marca que sempre foi sensação no mercado mundial. Lost Mary, a novidade custo benefício que todos pediram. Padrão CloudPods.",
@@ -103,6 +88,21 @@ window.PRODUTOS = [
     "precoDe": 129.99,
     "badge": "NEW",
     "destaque": true
+  },
+  {
+    "id": "ignite-v400",
+    "nome": "Ignite V400 Ice — 40.000 Puffs",
+    "descricao": "Dual-Flavor: Dois sabores em um só dispositivo. Qualidade IGNITE.",
+    "imagem": "assets\\img\\ignite-v400.png",
+    "precoDe": 129.99,
+    "preco": 119.99,
+    "badge": "",
+    "destaque": true,
+    "sabores": [
+      "Sakura Grape",
+      "Strawberry Kiwi"
+    ],
+    "ativo": true
   },
   {
     "id": "produto-6",
